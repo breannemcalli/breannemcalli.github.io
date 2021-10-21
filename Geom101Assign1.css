@@ -1,6 +1,5 @@
 /*Background color and header color choice*/
-<head>
-<style>
+
 body{
 	background-color:lightgray;
 }
@@ -13,9 +12,7 @@ h1{
 	
 }
 /*Minor headers*/
-</style>
-</head>
-<body>
+
 h2,h3,h4,h5{
 	text-align:left;
 	color: black;
@@ -54,4 +51,4 @@ h2,h3,h4,h5{
 a:active{
 	color:blue;
 }
-</body>
+
