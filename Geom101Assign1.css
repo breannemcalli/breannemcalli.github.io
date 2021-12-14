@@ -37,7 +37,7 @@ li{
 body{
 	background-color: lightgray;
 }
-a:active{
+.active{
 	color:blue;
 }
 
