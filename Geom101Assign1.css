@@ -1,13 +1,9 @@
-/*Background color and header color choice*/
 
-body{
-	background-color:lightgray;
-}
 /*Main Header color scheme*/
 h1{
 	text-align:center;
 	color: black;
-	font-family:Arial;
+	font-family:"Arial";
 	font-size:250%;
 		
 }
@@ -16,7 +12,7 @@ h1{
 h2,h3,h4,h5{
 	text-align:center;
 	color: black;
-	font-family:Arial;
+	font-family:"Arial";
 	font-size:150%;
 	
 }
@@ -26,7 +22,7 @@ h2,h3,h4,h5{
 .p1{
 	text-align: left;
 	color:black;
-	font-family:Arial;
+	font-family:"Arial";
 	font-size:100%
 }
 
@@ -34,7 +30,11 @@ ul{
 	padding: 8px;
 	background-color:white;
 }
+/*Background color and header color choice*/
 
+body{
+	background-color: lightgray;
+}
 a:active{
 	color:blue;
 }
