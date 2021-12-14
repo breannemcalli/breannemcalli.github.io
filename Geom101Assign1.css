@@ -5,16 +5,16 @@ body{
 }
 /*Main Header color scheme*/
 h1{
-	text-align:left;
+	text-align:center;
 	color: black;
 	font-family:Arial;
 	font-size:250%;
-	
+		
 }
 /*Minor headers*/
 
 h2,h3,h4,h5{
-	text-align:left;
+	text-align:center;
 	color: black;
 	font-family:Arial;
 	font-size:150%;
