@@ -19,11 +19,13 @@ h2,h3,h4,h5{
 
 
 /*paragraph color scheme*/
-1{
+p{
 	text-align: center;
 	color:black;
 	font-family:"Arial";
-	font-size:100%
+	font-size:100%;
+	margin-right: 20px;
+	margin-left: 20px;
 }
 
 li{
